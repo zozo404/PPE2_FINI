@@ -5,7 +5,7 @@ Site développé
 
 ## C'est quoi
 
-c'est un site développé à l'aide de Bootstrap en HTML CSS lorsde notre première année de BTS SIO.
+c'est un site développé à l'aide de Bootstrap en HTML CSS lors de notre première année de BTS SIO.
 
 ## Utilisation ❗️
 Vous devez avoir un IDE pour pouvoir coder, visualiser, éditer (ex : PHPStorm)
