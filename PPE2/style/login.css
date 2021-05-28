@@ -1,0 +1,41 @@
+#loginTitle{
+    text-align: center;
+    margin-top: 1rem;
+    font-family: cursive;
+}
+#loginID{
+    margin-top: 6rem;
+    border-radius: 10px;
+    background-color: #d9d9d9;
+    margin-left: 30rem;
+    margin-right: 30rem;
+}
+#formulaireConnexion, #fname, #lname{
+    text-align: center;
+}
+#formulaireConnexion{
+    margin-top: 12rem;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    font-weight: bold;
+    background-color: #b2bdca;
+    padding-bottom: 1rem;
+    border-radius: 8%;
+    box-shadow: 10px 5px 5px grey;
+}
+#fname, #lname{
+    padding: 2rem;
+}
+#btnConnexion{
+    padding: 1rem;
+}
+#btnConnexion{
+    background: linear-gradient(to bottom right, #2e4175, #45c0d0, #4fd7ca);
+    color: white;
+    font-weight: bold;
+}
+#btnConnexion:hover{
+    color: #ffffff;
+    background: linear-gradient(to bottom right, #4fd7ca, #45c0d0, #2e4175);
+    transition: 1.6s;
+}
