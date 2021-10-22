@@ -1,7 +1,7 @@
 # PPE2
 # Stock'Z
 
-Site développé
+Site développé en HTML/CSS avec Bootstrap.
 
 ## C'est quoi
 
